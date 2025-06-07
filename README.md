@@ -1,6 +1,5 @@
 # InstaInsane v1.0
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/thelinuxchoice
+#m.jutt._.
 ### Don't copy this code without give me the credits, bitch! 
 Instainsane is an Shell Script to perform multi-threaded brute force attack against Instagram, this script can bypass login limiting and it can test infinite number of passwords with a rate of about 1000 passwords/min with 100 attemps at once.
 
